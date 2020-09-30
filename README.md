@@ -20,7 +20,7 @@ To run it you will need to have Java installed.
 
 To start the application you will need to generate a .jar file and execute with Java.
 You can use Maven to Generate the .jar file
-The appication should run on http://localhost:8080 to ensure the 
+The appication should run on http://localhost:8080 to ensure the algular application will find the Java server endpoint
 
 -------
 
