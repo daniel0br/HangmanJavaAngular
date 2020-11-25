@@ -1,5 +1,5 @@
 # HangmanJavaAngular
-Implementation of hangman game with Java and Angular
+Implementation of hangman game with Java (Spring Boot) and Angular
 
 The folder hangman is the Angular frontend part of solution.
 
