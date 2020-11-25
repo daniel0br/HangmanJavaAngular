@@ -1,5 +1,5 @@
 # HangmanJavaAngular
-Implementation of hangman game with Java (Spring Boot) and Angular
+Implementation of hangman game with Java and Angular
 
 The folder hangman is the Angular frontend part of solution.
 
@@ -25,7 +25,7 @@ The appication should run on http://localhost:8080 to ensure the algular applica
 -------
 
 The game must be player with the mouse on the application http://localhost:4200
-A word will be loaded from the servera when the angular aplication starts.
+A word will be loaded from the server when the angular aplication starts.
 The player should select the letters to guess the word.
 
 If he miss more than 5 times he will lose, if he find all the letters he will win. 
