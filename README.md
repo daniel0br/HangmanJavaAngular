@@ -24,8 +24,8 @@ The appication should run on http://localhost:8080 to ensure the algular applica
 
 -------
 
-The game must be player with the mouse on the application http://localhost:4200
+The game must be played with the mouse on the application http://localhost:4200
 A word will be loaded from the server when the angular aplication starts.
-The player should select the letters to guess the word.
+The player should select the letters to guess the words.
 
 If he miss more than 5 times he will lose, if he find all the letters he will win. 
